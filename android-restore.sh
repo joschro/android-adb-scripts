@@ -10,4 +10,4 @@ test -f "$myPATH" && myFILE="$myPATH"
 test -d "$myPATH" && myFILE="$myPATH"/packagelist-simple.lst
 
 echo "~/bin/adb-install-packages.sh $(cat "$myFILE")"
-~/bin/adb-install-packages.sh $(cat "$myFILE" | tr "\n\r" " ")
+sh "$(dirname $0)/adb-install-packages.sh" $(cat "$myFILE" | tr "\n\r" " ")
