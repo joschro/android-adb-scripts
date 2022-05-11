@@ -4,16 +4,20 @@ for APP_NAME in $*; do
 	echo
 	echo "----------------------------------------------------"
 	echo "Testing for $APP_NAME in F-Droid store..."
+	foundGooglePlayStore=true
+	foundFdroidStore=true
 	curl -s "https://f-droid.org/packages/$APP_NAME" | grep "Not Found" >/dev/null && {
 		echo "$APP_NAME does not exist in F-Droid store."
-		echo "Testing for $APP_NAME in F-Droid store..."
+		foundFdroidStore=false
+		echo "Testing for $APP_NAME in Google Play store..."
 		curl -s "https://play.google.com/store/apps/details?id=$APP_NAME" | grep "Not Found" >/dev/null && {
 			echo "$APP_NAME does not exist in Google Play store."
+			foundGooglePlayStore=false
 			continue
 		}
-		echo "Success! $APP_NAME was found in Google Play store!"
        	}
-	echo "Success! $APP_NAME was found in F-Droid store!"
+	test $foundFdroidStore && echo "Success! $APP_NAME was found in F-Droid store!"
+	test $foundGooglePlayStore && echo "Success! $APP_NAME was found in Google Play store!"
 #	test -n "$(adb shell pm path "$APP_NAME")" || {
 	echo -n "Installing $APP_NAME... "
        	echo "Befehl: "; echo "adb shell am start -a android.intent.action.VIEW -d \"market://details?id=$APP_NAME\""
