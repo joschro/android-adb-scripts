@@ -1,13 +1,15 @@
 #!/bin/sh
 
-test $# -lt 1 && {
-	echo "Please provide path to backup files"
+test $# -lt 2 && {
+	echo "Please provide parameters for [priv|work] profile and path to backup files"
 	exit
 }
 
-myPATH="$1"
+myProfile="$1"
+
+myPATH="$2"
 test -f "$myPATH" && myFILE="$myPATH"
 test -d "$myPATH" && myFILE="$myPATH"/packagelist-simple.lst
 
-echo "~/bin/adb-install-packages.sh $(cat "$myFILE")"
-sh "$(dirname $0)/adb-install-packages.sh" $(cat "$myFILE" | tr "\n\r" " ")
+echo "$(dirname $0)/adb-install-packages.sh $1 \$(cat "$myFILE")"
+sh "$(dirname $0)/adb-install-packages.sh" $1 $(cat "$myFILE" | tr "\n\r" " ")
