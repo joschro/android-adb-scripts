@@ -11,12 +11,12 @@ for APP_NAME in $*; do
 	echo "Testing for $APP_NAME in F-Droid store..."
 	foundGooglePlayStore=True
 	foundFdroidStore=True
-	appName="$(curl -s "https://f-droid.org/packages/$APP_NAME" | grep "<title>" | sed "s/ |.*//g;s/.*>//g")"
+	appName="$(curl -s "https://f-droid.org/packages/$APP_NAME/" | grep "<title>" | tr -d [:cntrl:] | head -n1 | sed "s/ |.*//g;s/.*>//g")"
 	test "$appName" = "404 Page Not Found" && {
 		echo "$APP_NAME does not exist in F-Droid store."
 		foundFdroidStore=false
 		echo "Testing for $APP_NAME in Google Play store..."
-		appName="$(curl -s "https://play.google.com/store/apps/details?id=$APP_NAME" | grep "main-title" | sed "s/.*<title id=\"main-title\">//g;s/<.*//g")"
+		appName="$(curl -s "https://play.google.com/store/apps/details?id=$APP_NAME" | grep "main-title" | tr -d [:cntrl:] | head -n1 | sed "s/.*<title id=\"main-title\">//g;s/<.*//g")"
 		test -n "$appName" || {
 			echo "$APP_NAME does not exist in Google Play store."
 			foundGooglePlayStore=false

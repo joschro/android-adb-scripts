@@ -1,368 +1,477 @@
-agency.rain.android.alexa ===  === priv
-air.com.myheritage.mobile === MyHeritage: Family Tree &amp; DNA - Apps on Google Play === priv
-ai.susi ===  === priv
-at.austrosoft.t4me.MB_BerlinTZBEU === taxi.eu - The Taxi App for Europe - Apps on Google Play === priv
-at.geizhals.pv === Geizhals Preisvergleich - Apps on Google Play === priv
-brunnlechner.gps.zeiterfassungpro === GPS Time Tracker - logbook Pro - Apps on Google Play === priv
-canvasm.myo2 === Mein o2 - Apps on Google Play === priv
-ch.bitspin.timely ===  === priv
-ch.ethz.im.codecheck === CodeCheck: Food &amp; Cosmetics Product Scanner - Apps on Google Play === priv
-cn.danatech.xingseus === PictureThis - Plant Identifier - Apps on Google Play === priv
-com.abb.inetradio ===  === priv
-com.airbnb.android === Airbnb - Apps on Google Play === priv
-com.amazon.appmanager ===  === priv
-com.amazon.avod.thirdpartyclient === Amazon Prime Video - Apps on Google Play === priv
-com.amazon.dee.app === Amazon Alexa - Apps on Google Play === priv
-com.amazon.kindle === Amazon Kindle - Apps on Google Play === priv
-com.amazon.mp3 === Amazon Music: Discover Songs - Apps on Google Play === priv
-com.amazon.mShop.android.shopping === Amazon Shopping - Apps on Google Play === priv
-com.andropenoffice === AndrOpen Office - Apps on Google Play === priv
-com.andropenoffice.extensions.lang.de === German (Deutsch) Lang Pack for AndrOpen Office - Apps on Google Play === priv
-com.app.tgtg === Too Good To Go: End Food Waste - Apps on Google Play === priv
-com.autoscout24 === AutoScout24: Buy &amp; sell cars - Apps on Google Play === priv
-com.bergfex.mobile.android === bergfex/Ski - Skiresort Skiing Weather Snow Powder - Apps on Google Play === priv
-com.bergfex.tour === bergfex/Tours Hiking &amp; Biking - Apps on Google Play === priv
-com.bitfinex.mobileapp === Bitfinex: Trade Digital Assets - Apps on Google Play === priv
-com.box.android === Box - Apps on Google Play === priv
-com.bragi.thedash.app ===  === priv
-com.bubblesoft.android.bubbleupnp === BubbleUPnP for DLNA/Chromecast - Apps on Google Play === priv
-com.bubblesoft.android.bubbleupnp.unlocker === BubbleUPnP UPnP/DLNA License - Apps on Google Play === priv
-com.car2go === SHARE NOW (car2go &amp; DriveNow) - Apps on Google Play === priv
-com.coolkit === eWeLink - Smart Home - Apps on Google Play === priv
-com.daimler.moovel.android ===  === priv
-com.dawnwin.saina === AKASO DV - Apps on Google Play === priv
-com.devhd.feedly === Feedly - Smarter News Reader - Apps on Google Play === priv
-com.doodle.android === Doodle - Easy Scheduling - Apps on Google Play === priv
-com.dropbox.android === Dropbox: Cloud Photo Storage - Apps on Google Play === priv
-com.duckduckgo.mobile.android ===  === priv
-com.ebay.kleinanzeigen === eBay Kleinanzeigen Marketplace - Apps on Google Play === priv
-com.ebay.mobile === eBay: The shopping marketplace - Apps on Google Play === priv
-com.eclipsim.gpsstatus2 === GPS Status &amp; Toolbox - Apps on Google Play === priv
-com.eddy.app === eddy - Apps on Google Play === priv
-com.facebook.katana === Facebook - Apps on Google Play === priv
-com.facebook.orca === Messenger - Apps on Google Play === priv
-com.farproc.wifi.analyzer === Wifi Analyzer - Apps on Google Play === priv
-com.farproc.wifi.connecter === Wifi Connecter Library - Apps on Google Play === priv
-com.fitifyapps.resistance === Resistance Bands by Fitify - Apps on Google Play === priv
-com.fsck.k9 ===  === priv
-com.germanwings.android === Eurowings - cheap flights - Apps on Google Play === priv
-com.github.axet.audiorecorder ===  === priv
-com.glority.picturebird === Picture Bird - Bird Identifier - Apps on Google Play === priv
-com.glympse.android.glympseexpress === Glympse Express - Apps on Google Play === priv
-com.google.android.apps.adm === Google Find My Device - Apps on Google Play === priv
-com.google.android.apps.chromecast.app === Google Home - Apps on Google Play === priv
-com.google.android.apps.cultural === Google Arts &amp; Culture - Apps on Google Play === priv
-com.google.android.apps.docs.editors.docs === Google Docs - Apps on Google Play === priv
-com.google.android.apps.docs.editors.sheets === Google Sheets - Apps on Google Play === priv
-com.google.android.apps.docs.editors.slides === Google Slides - Apps on Google Play === priv
-com.google.android.apps.handwriting.ime ===  === priv
-com.google.android.apps.m4b ===  === priv
-com.google.android.apps.magazines === Google News - Daily Headlines - Apps on Google Play === priv
-com.google.android.apps.meetings === Google Meet - Apps on Google Play === priv
-com.google.android.apps.pdfviewer ===  === priv
-com.google.android.apps.podcasts === Google Podcasts - Apps on Google Play === priv
-com.google.android.apps.subscriptions.red === Google One - Apps on Google Play === priv
-com.google.android.apps.translate === Google Translate - Apps on Google Play === priv
-com.google.android.calculator === Calculator - Apps on Google Play === priv
-com.google.android.keep === Google Keep - Notes and Lists - Apps on Google Play === priv
-com.google.android.music ===  === priv
-com.google.android.street === Google Street View - Apps on Google Play === priv
-com.google.ar.core === Google Play Services for AR - Apps on Google Play === priv
-com.google.ar.lens === Google Lens - Apps on Google Play === priv
-com.google.earth === Google Earth - Apps on Google Play === priv
-com.google.tango.measure ===  === priv
-com.gopro.smarty === GoPro Quik: Video Editor - Apps on Google Play === priv
-com.gpsies.android === GPSies - Apps on Google Play === priv
-com.grupet.web.app === Untis Mobile - Apps on Google Play === priv
-com.hiuni === Hiuni - Apps on Google Play === priv
-com.huawei.mw === Huawei HiLink (Mobile WiFi) - Apps on Google Play === priv
-com.huaweioverseas.smarthome === HUAWEI AI Life - Apps on Google Play === priv
-com.husqvarna.automowerconnect === Automower® Connect - Apps on Google Play === priv
-com.iiordanov.freeaRDP === aRDP: Secure RDP Client - Apps on Google Play === priv
-com.iiordanov.freeaSPICE === aSPICE: Secure SPICE Client - Apps on Google Play === priv
-com.iiordanov.freebVNC === bVNC: Secure VNC Viewer - Apps on Google Play === priv
-com.infosoft.docutain === Docutain: PDF scanner app, OCR - Apps on Google Play === priv
-com.instagram.android === Instagram - Apps on Google Play === priv
-com.inventec.iMobile2 === OUTLANDER PHEV Remote Ctrl - Apps on Google Play === priv
-com.iota.trinity === IOTA Trinity Wallet - Apps on Google Play === priv
-com.irobot.home === iRobot Home - Apps on Google Play === priv
-com.kodakalaris.kodakmomentsapp === KODAK MOMENTS - Apps on Google Play === priv
-com.koushikdutta.backup ===  === priv
-com.lastirue.TaxiNorman === Taxi Meerbusch - Apps on Google Play === priv
-com.lecture.notes === Lecture Notes - Classroom Notes Made Simple - Apps on Google Play === priv
-com.lge.app1 ===  === priv
-com.lgi.kundencenter.de === Kundencenter App - Apps on Google Play === priv
-com.lifx.lifx === LIFX - Apps on Google Play === priv
-com.lightning.walletapp ===  === priv
-com.limebike === Lime - Your Ride Anytime - Apps on Google Play === priv
-com.llamalab.automate === Automate - Apps on Google Play === priv
-com.loafwallet === Litewallet: Buy Litecoin - Apps on Google Play === priv
-com.mdv.RheinbahnCompanion === Rheinbahn Fahrplanauskunft - Apps on Google Play === priv
-com.mdv.VRRCompanion ===  === priv
-com.melodis.midomiMusicIdentifier.freemium === SoundHound - Music Discovery &amp; Lyrics - Apps on Google Play === priv
-com.Moasure.Moasure === Moasure – the smart tape measure - Apps on Google Play === priv
-com.mojang.minecraftpe === Minecraft - Apps on Google Play === priv
-com.moodle.moodlemobile === Moodle - Apps on Google Play === priv
-com.moovel.rheinbahn ===  === priv
-com.myibidder.aclient1 === Auction Bid Sniper for eBay - Apps on Google Play === priv
-com.navfree.android.OSM.ALL === Navmii GPS World (Navfree) - Apps on Google Play === priv
-com.neurio.neuriohome === Neurio PWRview - Apps on Google Play === priv
-com.nextcloud.client ===  === priv
-com.oneplus.backuprestore === Clone Phone - OnePlus app - Apps on Google Play === priv
-com.oneplus.card ===  === priv
-com.oneplus.iconpack.oneplush2 === OnePlus Icon Pack - Hydrogen - Apps on Google Play === priv
-com.oneplus.iconpack.onepluso2 === OnePlus Icon Pack - Oxygen - Apps on Google Play === priv
-com.oneplus.note === OnePlus Notes - Apps on Google Play === priv
-com.oneplus.soundrecorder ===  === priv
-com.openxchange.oxcoi ===  === priv
-com.oraclecorp.internal.ent2.cloud.management === Oracle Management Cloud - Apps on Google Play === priv
-com.ovelin.guitartuna === GuitarTuna: Guitar,Tuner,Chord - Apps on Google Play === priv
-com.overlook.android.fing === Fing - Network Tools - Apps on Google Play === priv
-com.panasonic.musiccontrol === Panasonic Music Control - Apps on Google Play === priv
-com.parknow.app === PARK NOW – Digital parking - Apps on Google Play === priv
-com.paypal.android.p2pmobile === PayPal - Send, Shop, Manage - Apps on Google Play === priv
-com.picnic.android === Picnic Online Supermarket - Apps on Google Play === priv
-com.plannet.milesandmoreapp === Miles &amp; More - Apps on Google Play === priv
-com.portable.lanmic === LANmic - Apps on Google Play === priv
-com.prezi.android === Prezi Viewer - Apps on Google Play === priv
-com.provinzial.meineprovinzial === MeineProvinzial - Apps on Google Play === priv
-com.ptvag.android.adacmapformembers === ADAC Maps für Mitglieder - Apps on Google Play === priv
-com.rcreations.ipcamviewer === IP Cam Viewer Lite - Apps on Google Play === priv
-com.rentalcars.handset === Rentalcars.com Car Rental App - Apps on Google Play === priv
-com.revolut.revolut === Revolut - Apps on Google Play === priv
-com.rewedigital.shop === REWE - Online Shop &amp; Märkte - Apps on Google Play === priv
-com.salfeld.cb3 === Child Control - Apps on Google Play === priv
-com.snapchat.android === Snapchat - Apps on Google Play === priv
-com.solaredge.homeowner === mySolarEdge - Apps on Google Play === priv
-com.s_payment.mobiles_bezahlen === Mobiles Bezahlen - Apps on Google Play === priv
-com.spotify.music === Spotify: Music and Podcasts - Apps on Google Play === priv
-com.standardnotes ===  === priv
-com.starfinanz.mobile.android.dkbpushtan === DKB-TAN2go - Apps on Google Play === priv
-com.starfinanz.mobile.android.pushtan === S-pushTAN - Apps on Google Play === priv
-com.starfinanz.smob.android.sfinanzstatus === Sparkasse Ihre mobile Filiale - Apps on Google Play === priv
-com.stupeflix.replay ===  === priv
-com.sunhill_technologies.travipay === PayByPhone - Park Easy Now - Apps on Google Play === priv
-com.tabtrader.android === TabTrader Buy Bitcoin and Ethereum on exchanges - Apps on Google Play === priv
-com.tailortoys.app.PowerUp === POWERUP 3.0/DART - Apps on Google Play === priv
-com.ted.android === TED - Apps on Google Play === priv
-com.termux ===  === priv
-com.tier.app === TIER Electric scooters - Apps on Google Play === priv
-com.tinusapps.gpsspeedo === GPS Speedo with HUD - Apps on Google Play === priv
-com.todobom.opennotescanner ===  === priv
-com.trello === Trello: Manage Team Projects - Apps on Google Play === priv
-com.tripadvisor.tripadvisor === Tripadvisor: Plan &amp; Book Trips - Apps on Google Play === priv
-com.trivago === trivago: Compare hotel prices - Apps on Google Play === priv
-com.twitter.android === Twitter - Apps on Google Play === priv
-com.ubercab === Uber - Request a ride - Apps on Google Play === priv
-com.ubnt.easyunifi === UniFi Network - Apps on Google Play === priv
-com.unitedinternet.portal.android.onlinestorage.gmx === GMX Cloud - Apps on Google Play === priv
-com.vacationrentals.homeaway === HomeAway Vacation Rentals - Apps on Google Play === priv
-com.wakdev.wdnfc === NFC Tools - Apps on Google Play === priv
-com.whatsapp === WhatsApp Messenger - Apps on Google Play === priv
-com.wikihow.wikihowapp === wikiHow: how to do anything - Apps on Google Play === priv
-com.x8bit.bitwarden === Bitwarden Password Manager - Apps on Google Play === priv
-com.ycc365plus.aws === YCC365 Plus - Apps on Google Play === priv
-com.zattoo.player === Zattoo - TV Streaming App - Apps on Google Play === priv
-de.adac.mobile.pannenhilfe === ADAC Pannenhilfe - Apps on Google Play === priv
-de.adac.tourset === ADAC Trips - Apps on Google Play === priv
-de.appsoluts.f95 === Fortuna Düsseldorf App - Apps on Google Play === priv
-de.avm.android.myfritz2 === MyFRITZ!App - Apps on Google Play === priv
-de.bahn.callabike === Call a Bike - Apps on Google Play === priv
-de.barmergek.serviceapp === BARMER-App - Apps on Google Play === priv
-de.barmer.live.bonus ===  === priv
-de.bisonapp === BISON - Buy Bitcoin &amp; Co - Apps on Google Play === priv
-de.blinkt.openvpn ===  === priv
-de.blitzer === Blitzer.de - Apps on Google Play === priv
-de.boersego.gmt.android === Guidants – Stocks &amp; News - Apps on Google Play === priv
-de.boxine.tonieapp === tonies® - Apps on Google Play === priv
-de.danoeh.antennapod ===  === priv
-de.deltacity.android.blutspende === Blutspende - Spenderservice - Apps on Google Play === priv
-de.dieterthiess.sayit === SAY IT for Alexa - Apps on Google Play === priv
-de.discoplus.servicewelt ===  === priv
-de.dkb.portalapp === DKB-Banking - Apps on Google Play === priv
-de.dmhub.audionow === AUDIO NOW: App für Podcasts, Hörbücher &amp; Audiothek - Apps on Google Play === priv
-de.dwd.warnapp === WarnWetter - Apps on Google Play === priv
-de.ergo.app === ERGO APP - Apps on Google Play === priv
-de.foodora.android === foodora - Local Food Delivery - Apps on Google Play === priv
-de.gmx.mobile.android.mail === GMX - Mail &amp; Cloud - Apps on Google Play === priv
-de.hafas.android.db === DB Navigator - Apps on Google Play === priv
-de.hafas.android.nrw === Ticket NRW - Apps on Google Play === priv
-de.handyvertrag.servicewelt === handyvertrag.de Servicewelt - Apps on Google Play === priv
-de.ka.kamedi.heat_it === heat_it - The smart treatment of insect bites - Apps on Google Play === priv
-de.kicktipp.mbookmark === Kicktipp - Football predictor game and more - Apps on Google Play === priv
-de.komoot.android === Komoot: Cycling &amp; Hiking Maps - Apps on Google Play === priv
-de.lakdev.mathewiki === Math Wiki - Learn Math - Apps on Google Play === priv
-de.lateinon.lateinon === Lateinon: Lateinalleskönner - Apps on Google Play === priv
-de.lieferheld.android === LIEFERHELD | Order Food - Apps on Google Play === priv
-de.lineas.lit.ntv.android === ntv Nachrichten - Apps on Google Play === priv
-de.maengelmelder.app === Mängelmelder - Apps on Google Play === priv
-de.markusfisch.android.binaryeye ===  === priv
-de.materna.bbk.mobile.app === NINA - Die Warn-App des BBK - Apps on Google Play === priv
-de.mdiener.rain.usa === Rain Alarm - Apps on Google Play === priv
-de.msg === mehr-tanken - Save smart! - Apps on Google Play === priv
-de.myhammer.myhammercustomer === MyHammer Handwerkersuche 🔨 - Apps on Google Play === priv
-de.number26.android === N26 — The Mobile Bank - Apps on Google Play === priv
-de.okk.mam === Miles &amp; More Credit Card-App - Apps on Google Play === priv
-de.phase6.freeversion.beta === Memorize german vocabulary - Apps on Google Play === priv
-de.pilzsuchmaschine.ultra === Pilzsuche Ultra - Apps on Google Play === priv
-de.rki.coronawarnapp === Corona-Warn-App - Apps on Google Play === priv
-de.rwth_aachen.phyphox ===  === priv
-de.schildbach.oeffi ===  === priv
-de.sipgate.app.satellite === satellite - Apps on Google Play === priv
-de.sonnen.portal === my sonnen - Apps on Google Play === priv
-de.weishaupt.wemapp === Weishaupt Energy Manager - Apps on Google Play === priv
-de.wetteronline.wetterapp === Weather &amp; Radar - Storm radar - Apps on Google Play === priv
-de.xcom.flatexde === flatex next - Apps on Google Play === priv
-de.xcom.flatex.ptan === flateXSecure - Apps on Google Play === priv
-dk.tacit.android.foldersync.lite === FolderSync - Apps on Google Play === priv
-exa.lnx.a ===  === priv
-fitness.workouts.home.workoutspro === Home Workouts No Equipment Pro - Apps on Google Play === priv
-fr.free.nrw.commons ===  === priv
-info.cointracking.cointracking === CoinTracking - Apps on Google Play === priv
-io.bluewallet.bluewallet ===  === priv
-it.airgap.wallet === AirGap Wallet - Tezos, Cosmos, Ethereum, Bitcoin - Apps on Google Play === priv
-jackpal.androidterm ===  === priv
-keepass2android.keepass2android === Keepass2Android Password Safe - Apps on Google Play === priv
-li.klass.fhem ===  === priv
-mn.tck.semitone ===  === priv
-net.androgames.level ===  === priv
-net.biyee.onvifer === Onvier - IP Camera Monitor - Apps on Google Play === priv
-net.khertan.forrunners ===  === priv
-net.oneplus.forums === OnePlus Community - Apps on Google Play === priv
-net.oneplus.weather === OnePlus Weather - Apps on Google Play === priv
-net.oneplus.widget ===  === priv
-net.routix.mqttdash === MQTT Dash (IoT, Smart Home) - Apps on Google Play === priv
-net.xelnaga.exchanger === Exchange Rates &amp; Currency Converter - Apps on Google Play === priv
-no.nordicsemi.android.mcp === nRF Connect for Mobile - Apps on Google Play === priv
-org.connectbot ===  === priv
-org.fedorahosted.freeotp ===  === priv
-org.jitsi.meet ===  === priv
-org.leetzone.android.yatsewidgetfree === Yatse: Kodi remote control and cast - Apps on Google Play === priv
-org.leetzone.android.yatsewidgetunlocker === Legacy Unlocker for Yatse - Apps on Google Play === priv
-org.leo.android.dict === LEO dictionary - Apps on Google Play === priv
-org.ligi.passandroid ===  === priv
-org.linphone ===  === priv
-org.mozilla.firefox === Firefox Fast &amp; Private Browser - Apps on Google Play === priv
-org.openhab.habdroid ===  === priv
-org.ovirt.mobile.movirt === moVirt - Apps on Google Play === priv
-org.plantnet === PlantNet Plant Identification - Apps on Google Play === priv
-org.pocketworkstation.pckeyboard ===  === priv
-org.prowl.liveview.plugins.sandbox === LiveView for Torque (OBD/Car) - Apps on Google Play === priv
-org.prowl.torque === Torque Pro (OBD 2 &amp; Car) - Apps on Google Play
-View engine data in Google Earth"> === priv
-org.subsurfacedivelog.mobile === Subsurface-mobile - Apps on Google Play === priv
-org.tasks ===  === priv
-org.telegram.messenger ===  === priv
-org.thoughtcrime.securesms === Signal Private Messenger - Apps on Google Play === priv
-org.torproject.android === Orbot: Tor for Android - Apps on Google Play === priv
-org.videolan.vlc ===  === priv
-org.wegeheld === Wegeheld-App für freie Wege - Apps on Google Play
-Click you the Falschparker away!"> === priv
-org.wikipedia ===  === priv
-org.withouthat.acalendarplus === aCalendar+ Calendar &amp; Tasks - Apps on Google Play === priv
-proofit.klack.phone === KLACK Fernseh- &amp; TV-Programm - Apps on Google Play === priv
-protect.videoeditor ===  === priv
-resistanceband.workout.plan === Resistance Band Exercises - Apps on Google Play === priv
-snr.lab.iotmqttpanel.prod === IoT MQTT Panel - Apps on Google Play === priv
-taxi.android.client === FREE NOW - Apps on Google Play === priv
-tunein.player === TuneIn Radio: News, Music &amp; FM - Apps on Google Play === priv
-vc.qc.banner ===  === priv
-vivino.web.app === Vivino: Buy the Right Wine - Apps on Google Play === priv
-at.austrosoft.t4me.MB_BerlinTZBEU === taxi.eu - The Taxi App for Europe - Apps on Google Play === work
-at.oebb.ts === ÖBB – Train Tickets &amp; More - Apps on Google Play === work
-ch.sbb.mobile.android.b2c === SBB Mobile - Apps on Google Play === work
-ch.switzerland.graffinn.deepl_machinetranslation ===  === work
-com.adleritech.app.liftago.passenger === Liftago - Apps on Google Play === work
-com.airbnb.android === Airbnb - Apps on Google Play === work
-com.andropenoffice === AndrOpen Office - Apps on Google Play === work
-com.andropenoffice.extensions.lang.de === German (Deutsch) Lang Pack for AndrOpen Office - Apps on Google Play === work
-com.apkpure.aegon ===  === work
-com.app.tgtg === Too Good To Go: End Food Waste - Apps on Google Play === work
-com.arnaud.metronome ===  === work
-com.bambu === Bambu by Sprout Social - Apps on Google Play === work
-com.bluejeansnet.Base === BlueJeans Video Conferencing - Apps on Google Play === work
-com.box.android === Box - Apps on Google Play === work
-com.concur.breeze === SAP Concur - Apps on Google Play === work
-com.cubic.cumo.android.rmv === RMV Rhein-Main-Verkehrsverbund - Apps on Google Play === work
-com.dev47apps.droidcam === DroidCam - Webcam for PC - Apps on Google Play === work
-com.dropbox.android === Dropbox: Cloud Photo Storage - Apps on Google Play === work
-com.egencia.app === Egencia - Apps on Google Play === work
-com.estrongs.android.pop ===  === work
-com.everbridge.mobile.iv.recipient === Everbridge - Apps on Google Play === work
-com.germanwings.android === Eurowings - cheap flights - Apps on Google Play === work
-com.glympse.android.glympseexpress === Glympse Express - Apps on Google Play === work
-com.google.android.apps.adm === Google Find My Device - Apps on Google Play === work
-com.google.android.apps.docs === Google Drive - Apps on Google Play === work
-com.google.android.apps.docs.editors.docs === Google Docs - Apps on Google Play === work
-com.google.android.apps.docs.editors.sheets === Google Sheets - Apps on Google Play === work
-com.google.android.apps.docs.editors.slides === Google Slides - Apps on Google Play === work
-com.google.android.apps.enterprise.dmagent === Google Apps Device Policy - Apps on Google Play === work
-com.google.android.apps.fireball ===  === work
-com.google.android.apps.handwriting.ime ===  === work
-com.google.android.apps.inbox ===  === work
-com.google.android.apps.m4b ===  === work
-com.google.android.apps.meetings === Google Meet - Apps on Google Play === work
-com.google.android.apps.pdfviewer ===  === work
-com.google.android.apps.photos === Google Photos - Apps on Google Play === work
-com.google.android.apps.translate === Google Translate - Apps on Google Play === work
-com.google.android.apps.walletnfcrel === Google Pay - Apps on Google Play === work
-com.google.android.keep === Google Keep - Notes and Lists - Apps on Google Play === work
-com.google.android.projection.gearhead === Android Auto - Apps on Google Play === work
-com.google.android.street === Google Street View - Apps on Google Play === work
-com.ibm.de.ish.app.dkv.prod ===  === work
-com.ifttt.ifttt === IFTTT - automation &amp; workflow - Apps on Google Play === work
-com.kayak.android === KAYAK Flights, Hotels &amp; Cars - Apps on Google Play === work
-com.linkedin.android === LinkedIn: Jobs &amp; Business News - Apps on Google Play === work
-com.lucidchart.android.chart === Lucidchart - Apps on Google Play === work
-com.lufthansa.android.lufthansa === Lufthansa - Apps on Google Play === work
-com.lunchit.android === Lunchit: Essen zahlt dein Chef - Apps on Google Play === work
-com.mdv.companion === MVV-App – Munich Journey Planner &amp; Mobile Tickets - Apps on Google Play === work
-com.mdv.VRRCompanion ===  === work
-com.meetup === Meetup: Find events near you - Apps on Google Play === work
-com.morganstanley.stockplanconnect ===  === work
-com.oraclecorp.internal.ent2.cloud.management === Oracle Management Cloud - Apps on Google Play === work
-com.overlook.android.fing === Fing - Network Tools - Apps on Google Play === work
-com.platypus.SAnd ===  === work
-com.redhat.findmyfedora ===  === work
-com.salesforce.chatter === Salesforce - Apps on Google Play === work
-com.smartsheet.android === Smartsheet: Teams &amp; Projects - Apps on Google Play === work
-com.spotme.reraa17 === Red Hat events - Apps on Google Play === work
-com.ted.android === TED - Apps on Google Play === work
-com.tripadvisor.tripadvisor === Tripadvisor: Plan &amp; Book Trips - Apps on Google Play === work
-com.trivago === trivago: Compare hotel prices - Apps on Google Play === work
-com.twitter.android === Twitter - Apps on Google Play === work
-com.whatsapp === WhatsApp Messenger - Apps on Google Play === work
-com.workday.workdroidapp === Workday - Apps on Google Play === work
-com.x8bit.bitwarden === Bitwarden Password Manager - Apps on Google Play === work
-com.xing.android === XING - Your career companion - Apps on Google Play === work
-cx.hell.android.pdfview ===  === work
-de.blinkt.openvpn ===  === work
-de.blitzer === Blitzer.de - Apps on Google Play === work
-de.danoeh.antennapod ===  === work
-de.eos.uptrade.android.fahrinfo.berlin === BVG Fahrinfo: Route planner - Apps on Google Play === work
-de.fun2code.android.lite.webdrive ===  === work
-de.hafas.android.db === DB Navigator - Apps on Google Play === work
-de.hafas.android.nrw === Ticket NRW - Apps on Google Play === work
-de.hafas.android.sbm === München Navigator - Apps on Google Play === work
-de.hafas.android.zvv === ZVV-Timetable - Apps on Google Play === work
-de.rki.coronawarnapp === Corona-Warn-App - Apps on Google Play === work
-de.telekom.android.customercenter === MeinMagenta: Handy &amp; Festnetz - Apps on Google Play === work
-org.blokada.alarm ===  === work
-org.buffer.android === Buffer: Social Media Tools - Apps on Google Play === work
-org.fdroid.fdroid ===  === work
-org.fedorahosted.freeotp ===  === work
-org.jitsi.meet ===  === work
-org.ligi.passandroid ===  === work
-org.linphone ===  === work
-org.mozilla.firefox === Firefox Fast &amp; Private Browser - Apps on Google Play === work
-org.opencv.engine ===  === work
-org.pocketworkstation.pckeyboard ===  === work
-org.tasks ===  === work
-org.telegram.messenger ===  === work
-org.thoughtcrime.securesms === Signal Private Messenger - Apps on Google Play === work
-org.torproject.android === Orbot: Tor for Android - Apps on Google Play === work
-org.videolan.vlc ===  === work
-taxi.android.client === FREE NOW - Apps on Google Play === work
-tv.twitch.android.app === Twitch: Live Game Streaming - Apps on Google Play === work
-us.zoom.videomeetings === ZOOM Cloud Meetings - Apps on Google Play === work
-vc.qc.banner ===  === work
+agency.rain.android.alexa ===  ===  === priv
+air.com.EXswap.Mindomo === Mind Map  Concept Map Maker - Mindomo === GooglePlay === priv
+air.com.myheritage.mobile === MyHeritage: Family Tree  DNA === GooglePlay === priv
+ai.susi === SUSI.AI === F-Droid === priv
+at.austrosoft.t4me.MB_BerlinTZBEU === taxi.eu - The Taxi App for Europe === GooglePlay === priv
+at.geizhals.pv === Geizhals Preisvergleich === GooglePlay === priv
+at.oebb.ts === ÖBB – Train Tickets  More === GooglePlay === priv
+at.oebb.ts === ÖBB – Train Tickets  More === GooglePlay === work
+berserker.android.apps.sshdroid ===  ===  === priv
+brunnlechner.gps.zeiterfassungpro === GPS Time Tracker - logbook Pro === GooglePlay === priv
+canvasm.myo2 === Mein o2 === GooglePlay === priv
+champion.gnuroot ===  ===  === priv
+champion.gnuroot.wheezy ===  ===  === priv
+ch.bailu.aat === AAT Another Activity Tracker === F-Droid === priv
+ch.bitspin.timely ===  ===  === priv
+ch.ethz.im.codecheck === CodeCheck: Food  Cosmetics Product Scanner === GooglePlay === priv
+ch.sbb.mobile.android.b2c === SBB Mobile === GooglePlay === priv
+ch.switzerland.graffinn.deepl_machinetranslation ===  ===  === priv
+cn.danatech.xingseus === PictureThis - Plant Identifier === GooglePlay === priv
+com.abb.inetradio ===  ===  === priv
+com.adleritech.app.liftago.passenger === Liftago === GooglePlay === priv
+com.airbnb.android === Airbnb === GooglePlay === priv
+com.airtame.airtameapp ===  ===  === priv
+com.aldiko.android === Aldiko Next === GooglePlay === priv
+com.amazon.appmanager ===  ===  === priv
+com.amazon.avod.thirdpartyclient === Amazon Prime Video === GooglePlay === priv
+com.amazon.dee.app === Amazon Alexa === GooglePlay === priv
+com.amazon.kindle === Amazon Kindle === GooglePlay === priv
+com.amazon.mp3 === Amazon Music: Discover Songs === GooglePlay === priv
+com.amazon.mShop.android.shopping === Amazon Shopping === GooglePlay === priv
+com.andropenoffice === AndrOpen Office === GooglePlay === priv
+com.andropenoffice.extensions.lang.de === German (Deutsch) Lang Pack for AndrOpen Office === GooglePlay === priv
+com.apkpure.aegon ===  ===  === priv
+com.app.tgtg === Too Good To Go: End Food Waste === GooglePlay === priv
+com.arnaud.metronome === Metronome === F-Droid === priv
+com.artifex.mupdf.viewer.app === MuPDF viewer === F-Droid === priv
+com.aspiro.tidal === TIDAL Music === GooglePlay === priv
+com.attidomobile.passwallet === PassWallet - mobile passes === GooglePlay === priv
+com.attidomobile.passwallet === PassWallet - mobile passes === GooglePlay === work
+com.autoscout24 === AutoScout24: Buy  sell cars === GooglePlay === priv
+com.babbel.mobile.android.en === Babbel - Learn Languages === GooglePlay === priv
+com.bambu === Bambu by Sprout Social === GooglePlay === work
+com.bandcamp.android === Bandcamp === GooglePlay === priv
+com.bergfex.mobile.android === bergfex/Ski - Skiresort Skiing Weather Snow Powder === GooglePlay === priv
+com.bergfex.tour === bergfex/Tours Hiking  Biking === GooglePlay === priv
+com.bitfinex.mobileapp === Bitfinex: Trade Digital Assets === GooglePlay === priv
+com.bluejeansnet.Base === BlueJeans Video Conferencing === GooglePlay === work
+com.booking === Booking.com: Hotels and more === GooglePlay === priv
+com.box.android === Box === GooglePlay === priv
+com.box.android === Box === GooglePlay === work
+com.bragi.thedash.app ===  ===  === priv
+com.bubblesoft.android.bubbleupnp === BubbleUPnP for DLNA/Chromecast === GooglePlay === priv
+com.bubblesoft.android.bubbleupnp.unlocker === BubbleUPnP UPnP/DLNA License === GooglePlay === priv
+com.bunq.android === bunq - bank of The Free === GooglePlay === priv
+com.camerasideas.instashot === Video Editor  Maker - InShot === GooglePlay === priv
+com.car2go === SHARE NOW (car2go  DriveNow) === GooglePlay === priv
+com.chartcross.gpstest === GPS Test === GooglePlay === priv
+com.concur.breeze === SAP Concur === GooglePlay === work
+com.coolkit === eWeLink - Smart Home === GooglePlay === priv
+com.corsair.android.controlcenter === Elgato Control Center === GooglePlay === priv
+com.cubic.cumo.android.rmv === RMV Rhein-Main-Verkehrsverbund === GooglePlay === priv
+com.daimler.moovel.android ===  ===  === priv
+com.dawnwin.saina === AKASO DV === GooglePlay === priv
+com.dazn === DAZN: Stream Live Sports === GooglePlay === priv
+com.dev47apps.droidcam === DroidCam - Webcam for PC === GooglePlay === priv
+com.devhd.feedly === Feedly - Smarter News Reader === GooglePlay === priv
+com.digitalenabling.idw ===  ===  === priv
+com.discord === Discord - Chat, Talk  Hangout === GooglePlay === priv
+com.dkbcodefactory.banking === DKB === GooglePlay === priv
+com.dkv.dkvrahmenapp === DKV App === GooglePlay === priv
+com.doodle.android === Doodle - Easy Scheduling === GooglePlay === priv
+com.dropbox.android === Dropbox: Cloud Photo Storage === GooglePlay === priv
+com.duckduckgo.mobile.android === DuckDuckGo Privacy Browser === F-Droid === priv
+com.ebay.kleinanzeigen === eBay Kleinanzeigen Marketplace === GooglePlay === priv
+com.ebay.mobile === eBay: The shopping marketplace === GooglePlay === priv
+com.eclipsim.gpsstatus2 === GPS Status  Toolbox === GooglePlay === priv
+com.eddy.app === eddy === GooglePlay === priv
+com.egencia.app === Egencia === GooglePlay === work
+com.estrongs.android.pop ===  ===  === priv
+com.estrongs.android.pop ===  ===  === work
+com.esyoil.webapp2c === Heizölpreise === GooglePlay === priv
+com.everbridge.mobile.iv.recipient === Everbridge === GooglePlay === work
+com.facebook.katana === Facebook === GooglePlay === priv
+com.facebook.katana === Facebook === GooglePlay === work
+com.facebook.mlite === Messenger Lite === GooglePlay === priv
+com.facebook.mlite === Messenger Lite === GooglePlay === work
+com.facebook.orca === Messenger === GooglePlay === priv
+com.facebook.orca === Messenger === GooglePlay === work
+com.farproc.wifi.analyzer === Wifi Analyzer === GooglePlay === priv
+com.farproc.wifi.connecter === Wifi Connecter Library === GooglePlay === priv
+com.fidelity.wi.activity === NetBenefits - Fidelity at Work === GooglePlay === priv
+com.fitifyapps.resistance === Resistance Bands by Fitify === GooglePlay === priv
+com.flightradar24free === Flightradar24 Flight Tracker === GooglePlay === priv
+com.fsck.k9 === K-9 Mail === F-Droid === priv
+com.germanwings.android === Eurowings - cheap flights === GooglePlay === priv
+com.github.axet.audiorecorder === Audio Recorder === F-Droid === priv
+com.github.devnied.emvnfccard === Credit Card Reader NFC (EMV) === GooglePlay === priv
+com.glority.picturebird === Picture Bird - Bird Identifier === GooglePlay === priv
+com.glympse.android.glympseexpress === Glympse Express === GooglePlay === priv
+com.glympse.android.glympseexpress === Glympse Express === GooglePlay === work
+com.google.android.apps.adm === Google Find My Device === GooglePlay === priv
+com.google.android.apps.adm === Google Find My Device === GooglePlay === work
+com.google.android.apps.chromecast.app === Google Home === GooglePlay === priv
+com.google.android.apps.cloudconsole === Google Cloud Console === GooglePlay === priv
+com.google.android.apps.cultural === Google Arts  Culture === GooglePlay === priv
+com.google.android.apps.docs.editors.docs === Google Docs === GooglePlay === priv
+com.google.android.apps.docs.editors.docs === Google Docs === GooglePlay === work
+com.google.android.apps.docs.editors.sheets === Google Sheets === GooglePlay === priv
+com.google.android.apps.docs.editors.sheets === Google Sheets === GooglePlay === work
+com.google.android.apps.docs.editors.slides === Google Slides === GooglePlay === priv
+com.google.android.apps.docs.editors.slides === Google Slides === GooglePlay === work
+com.google.android.apps.docs === Google Drive === GooglePlay === priv
+com.google.android.apps.docs === Google Drive === GooglePlay === work
+com.google.android.apps.dynamite === Google Chat === GooglePlay === priv
+com.google.android.apps.fireball ===  ===  === priv
+com.google.android.apps.fireball ===  ===  === work
+com.google.android.apps.fitness === Google Fit: Activity Tracking === GooglePlay === priv
+com.google.android.apps.handwriting.ime ===  ===  === priv
+com.google.android.apps.handwriting.ime ===  ===  === work
+com.google.android.apps.inbox ===  ===  === priv
+com.google.android.apps.m4b ===  ===  === priv
+com.google.android.apps.magazines === Google News - Daily Headlines === GooglePlay === priv
+com.google.android.apps.meetings === Google Meet === GooglePlay === work
+com.google.android.apps.pdfviewer ===  ===  === priv
+com.google.android.apps.pdfviewer ===  ===  === work
+com.google.android.apps.photos === Google Photos === GooglePlay === work
+com.google.android.apps.podcasts === Google Podcasts === GooglePlay === priv
+com.google.android.apps.tachyon === Google Duo === GooglePlay === priv
+com.google.android.apps.translate === Google Translate === GooglePlay === priv
+com.google.android.apps.walletnfcrel === Google Pay === GooglePlay === priv
+com.google.android.apps.youtube.music === YouTube Music === GooglePlay === priv
+com.google.android.calculator === Calculator === GooglePlay === priv
+com.google.android.calendar === Google Calendar === GooglePlay === work
+com.google.android.contacts === Contacts === GooglePlay === priv
+com.google.android.contacts === Contacts === GooglePlay === work
+com.google.android.inputmethod.latin === Gboard - the Google Keyboard === GooglePlay === priv
+com.google.android.inputmethod.latin === Gboard - the Google Keyboard === GooglePlay === work
+com.google.android.keep === Google Keep - Notes and Lists === GooglePlay === priv
+com.google.android.keep === Google Keep - Notes and Lists === GooglePlay === work
+com.google.android.projection.gearhead === Android Auto === GooglePlay === priv
+com.google.android.street === Google Street View === GooglePlay === priv
+com.google.android.videos === Google TV === GooglePlay === priv
+com.google.ar.core === Google Play Services for AR === GooglePlay === priv
+com.google.ar.lens === Google Lens === GooglePlay === priv
+com.google.earth === Google Earth === GooglePlay === priv
+com.google.stadia.android === Stadia === GooglePlay === priv
+com.google.tango.measure ===  ===  === priv
+com.gopro.smarty === GoPro Quik: Video Editor === GooglePlay === priv
+com.governikus.ausweisapp2 === AusweisApp2 === F-Droid === priv
+com.gpsies.android === GPSies === GooglePlay === priv
+com.grupet.web.app === Untis Mobile === GooglePlay === priv
+com.here.app.maps === HERE WeGo: Maps  Navigation === GooglePlay === priv
+com.hiuni === Hiuni === GooglePlay === priv
+com.hrs.b2c.android === Hotel Search HRS (New) === GooglePlay === priv
+com.hssn.anatomy3d === 3D Anatomy === GooglePlay === priv
+com.huawei.mw === Huawei HiLink (Mobile WiFi) === GooglePlay === priv
+com.huaweioverseas.smarthome === HUAWEI AI Life === GooglePlay === priv
+com.Hubapps.DeepLtranslate ===  ===  === priv
+com.husqvarna.automowerconnect === Automower® Connect === GooglePlay === priv
+com.ibm.de.gapp.dkv.prod === Meine DKV === GooglePlay === priv
+com.ibm.de.ish.app.dkv.prod ===  ===  === priv
+com.ideashower.readitlater.pro === Pocket: Save. Read. Grow. === GooglePlay === priv
+com.ifttt.ifttt === IFTTT - automation  workflow === GooglePlay === priv
+com.ifttt.ifttt === IFTTT - automation  workflow === GooglePlay === work
+com.iiordanov.freeaRDP === aRDP: Secure RDP Client === GooglePlay === priv
+com.iiordanov.freeaSPICE === aSPICE: Secure SPICE Client === GooglePlay === priv
+com.iiordanov.freebVNC === bVNC: Secure VNC Viewer === GooglePlay === priv
+com.ilyabogdanovich.geotracker === Geo Tracker - GPS tracker === GooglePlay === priv
+com.infosoft.docutain === Docutain: PDF scanner app, OCR === GooglePlay === priv
+com.instagram.android === Instagram === GooglePlay === priv
+com.intradesys.darfichdas === Darf ich das? === GooglePlay === priv
+com.inventec.iMobile2 === OUTLANDER PHEV Remote Ctrl === GooglePlay === priv
+com.iota.trinity === IOTA Trinity Wallet === GooglePlay === priv
+com.ipotensic.depstech === Depstech-View === GooglePlay === priv
+com.irobot.home === iRobot Home === GooglePlay === priv
+com.jamworks.alwaysondisplay.helper ===  ===  === priv
+com.jamworks.alwaysondisplay === Notification light for Samsung === GooglePlay === priv
+com.jamworks.bxactions === Bixbi Button Remapper - bxActions === GooglePlay === priv
+com.jivesoftware.daily === Jive Daily: Intranet on the go === GooglePlay === work
+com.kayak.android === KAYAK Flights, Hotels  Cars === GooglePlay === priv
+com.kbsdevelopment.k9mailwidget ===  ===  === priv
+com.kodakalaris.kodakmomentsapp === KODAK MOMENTS === GooglePlay === priv
+com.koukaam.netioid ===  ===  === priv
+com.koushikdutta.backup ===  ===  === priv
+com.lastirue.TaxiNorman === Taxi Meerbusch === GooglePlay === priv
+com.lecture.notes === Lecture Notes - Classroom Notes Made Simple === GooglePlay === priv
+com.lge.app1 ===  ===  === priv
+com.lgi.kundencenter.de === Kundencenter App === GooglePlay === priv
+com.lifx.lifx === LIFX === GooglePlay === priv
+com.lightning.walletapp === BLW - Bitcoin Lightning Wallet === F-Droid === priv
+com.limebike === Lime - Your Ride Anytime === GooglePlay === priv
+com.linkedin.android === LinkedIn: Jobs  Business News === GooglePlay === work
+com.llamalab.automate === Automate === GooglePlay === priv
+com.loafwallet === Litewallet: Buy Litecoin === GooglePlay === priv
+com.lucidchart.android.chart === Lucidchart === GooglePlay === priv
+com.lucidchart.android.chart === Lucidchart === GooglePlay === work
+com.lufthansa.android.lufthansa === Lufthansa === GooglePlay === priv
+com.lunchit.android === Lunchit: Essen zahlt dein Chef === GooglePlay === work
+com.mdv.companion === MVV-App – Munich Journey Planner  Mobile Tickets === GooglePlay === work
+com.mdv.RheinbahnCompanion === Rheinbahn Fahrplanauskunft === GooglePlay === priv
+com.mdv.VRRCompanion ===  ===  === priv
+com.meetup === Meetup: Find events near you === GooglePlay === work
+com.melodis.midomiMusicIdentifier.freemium === SoundHound - Music Discovery  Lyrics === GooglePlay === priv
+com.michaeltroger.gruenerpass === Green Pass PDF Wallet === F-Droid === priv
+com.microsoft.office.onenote === Microsoft OneNote: Save Ideas and Organize Notes === GooglePlay === priv
+com.Moasure.Moasure === Moasure – the smart tape measure === GooglePlay === priv
+com.mobike.mobikeapp ===  ===  === priv
+com.mojang.minecraftpe === Minecraft === GooglePlay === priv
+com.moodle.moodlemobile === Moodle === GooglePlay === priv
+com.moovel.rheinbahn ===  ===  === priv
+com.morganstanley.prod.SumSPC === StockPlan Connect === GooglePlay === priv
+com.mpselectmini.matthewupp.mp3dprinterwificonnect ===  ===  === priv
+com.myibidder.aclient1 === Auction Bid Sniper for eBay === GooglePlay === priv
+com.mylaps.eventapp.metromarathondusseldorf === METRO Marathon Düsseldorf === GooglePlay === priv
+com.navfree.android.OSM.ALL === Navmii GPS World (Navfree) === GooglePlay === priv
+com.neurio.neuriohome === Neurio PWRview === GooglePlay === priv
+com.nextcloud.client === Nextcloud === F-Droid === priv
+com.nintendo.znma === Nintendo Switch Parental Cont… === GooglePlay === priv
+com.openxchange.oxcoi ===  ===  === priv
+com.oraclecorp.internal.ent2.cloud.management === Oracle Management Cloud === GooglePlay === priv
+com.oraclecorp.internal.ent2.cloud.management === Oracle Management Cloud === GooglePlay === work
+com.ovelin.guitartuna === GuitarTuna: Guitar,Tuner,Chord === GooglePlay === priv
+com.overlook.android.fing === Fing - Network Tools === GooglePlay === priv
+com.panasonic.ACCsmart === Panasonic Comfort Cloud === GooglePlay === priv
+com.panasonic.ais_pfdc_tvremote3_gbl === Panasonic TV Remote 3 === GooglePlay === priv
+com.panasonic.musiccontrol === Panasonic Music Control === GooglePlay === priv
+com.parknow.app === PARK NOW – Digital parking === GooglePlay === priv
+com.paypal.android.p2pmobile === PayPal - Send, Shop, Manage === GooglePlay === priv
+com.picnic.android === Picnic Online Supermarket === GooglePlay === priv
+com.pixformance.app === Pixformance === GooglePlay === priv
+com.plannet.milesandmoreapp === Miles  More === GooglePlay === priv
+com.platypus.SAnd === SAnd === F-Droid === priv
+com.portable.lanmic === LANmic === GooglePlay === priv
+com.prezi.android === Prezi Viewer === GooglePlay === priv
+com.provinzial.meineprovinzial === MeineProvinzial === GooglePlay === priv
+com.rcreations.WebCamViewerPaid === IP Cam Viewer Pro === GooglePlay === priv
+com.realtimeboard === Miro: Online whiteboard === GooglePlay === priv
+com.realtimeboard === Miro: Online whiteboard === GooglePlay === work
+com.reddit.frontpage === Reddit === GooglePlay === priv
+com.redhat.findmyfedora ===  ===  === priv
+com.redhat.findmyfedora ===  ===  === work
+com.rentalcars.handset === Rentalcars.com Car Rental App === GooglePlay === priv
+com.rerware.android.MyBackupPro === My Backup Pro === GooglePlay === priv
+com.revolut.revolut === Revolut === GooglePlay === priv
+com.rewedigital.shop === REWE - Online Shop  Märkte === GooglePlay === priv
+com.rheinbahn.redy === redy === GooglePlay === priv
+com.roblox.client === Roblox === GooglePlay === priv
+com.ryzerobotics.tello === Tello === GooglePlay === priv
+com.salesforce.chatter === Salesforce === GooglePlay === work
+com.salfeld.cb3 === Child Control === GooglePlay === priv
+com.sinpo.xnfc === NFCard === F-Droid === priv
+com.smartsheet.android === Smartsheet: Teams  Projects === GooglePlay === work
+com.snapchat.android === Snapchat === GooglePlay === priv
+com.solaredge.homeowner === mySolarEdge === GooglePlay === priv
+com.sonyericsson.extras.liveview ===  ===  === priv
+com.s_payment.mobiles_bezahlen === Mobiles Bezahlen === GooglePlay === priv
+com.spotify.music === Spotify: Music and Podcasts === GooglePlay === priv
+com.spotme.reraa17 === Red Hat events === GooglePlay === work
+com.standardnotes === Standard Notes === F-Droid === priv
+com.starfinanz.mobile.android.dkbpushtan === DKB-TAN2go === GooglePlay === priv
+com.starfinanz.mobile.android.pushtan === S-pushTAN === GooglePlay === priv
+com.starfinanz.smob.android.sfinanzstatus === Sparkasse Ihre mobile Filiale === GooglePlay === priv
+com.streampi.client ===  ===  === priv
+com.stupeflix.replay ===  ===  === priv
+com.sunhill_technologies.travipay === PayByPhone - Park Easy Now === GooglePlay === priv
+com.tabtrader.android === TabTrader Buy Bitcoin and Ethereum on exchanges === GooglePlay === priv
+com.tailortoys.app.PowerUp === POWERUP 3.0/DART === GooglePlay === priv
+com.ted.android === TED === GooglePlay === priv
+com.termux === Termux === F-Droid === priv
+com.tier.app === TIER Electric scooters === GooglePlay === priv
+com.tinusapps.gpsspeedo === GPS Speedo with HUD === GooglePlay === priv
+com.todobom.opennotescanner === Open Note Scanner === F-Droid === priv
+com.toggl.giskard === Toggl Track - Time Tracking === GooglePlay === priv
+com.tonies.app === mytonies === GooglePlay === priv
+com.tplink.tpmifi === tpMiFi === GooglePlay === priv
+com.trello === Trello: Manage Team Projects === GooglePlay === priv
+com.tripadvisor.tripadvisor === Tripadvisor: Plan  Book Trips === GooglePlay === priv
+com.trivago === trivago: Compare hotel prices === GooglePlay === priv
+com.tuya.smart === Tuya Smart === GooglePlay === priv
+com.twinkly === Twinkly === GooglePlay === priv
+com.twitter.android === Twitter === GooglePlay === priv
+com.twitter.android === Twitter === GooglePlay === work
+com.uavforecast === UAV Forecast for DJI Quadcopter  UAV Drone Pilots === GooglePlay === priv
+com.ubercab === Uber - Request a ride === GooglePlay === priv
+com.ubnt.easyunifi === UniFi Network === GooglePlay === priv
+com.unitedinternet.portal.android.onlinestorage.gmx === GMX Cloud === GooglePlay === priv
+com.unmannedairlines.droneblocks === DroneBlocks === GooglePlay === priv
+com.vacationrentals.homeaway === HomeAway Vacation Rentals === GooglePlay === priv
+com.veryfit2hr.second === VeryFitPro === GooglePlay === priv
+com.vimeo.android.videoapp === Vimeo === GooglePlay === priv
+com.volatello.tellofpv.demo === Tello FPV Demo - Control App for Ryze Tello RTH VR === GooglePlay === priv
+com.volatello.tellomea === TelloMe - Active Track and FollowMe for Ryze Tello === GooglePlay === priv
+com.wakdev.wdnfc === NFC Tools === GooglePlay === priv
+com.what3words.android === what3words === GooglePlay === priv
+com.whatsapp === WhatsApp Messenger === GooglePlay === priv
+com.whatsapp === WhatsApp Messenger === GooglePlay === work
+com.wikihow.wikihowapp === wikiHow: how to do anything === GooglePlay === priv
+com.workday.workdroidapp === Workday === GooglePlay === work
+com.wunderground.android.weather === Weather data  microclimate : Weather Underground === GooglePlay === priv
+com.x8bit.bitwarden === Bitwarden Password Manager === GooglePlay === priv
+com.x8bit.bitwarden === Bitwarden Password Manager === GooglePlay === work
+com.xing.android === XING - Your career companion === GooglePlay === work
+com.ycc365plus.aws === YCC365 Plus === GooglePlay === priv
+com.yopeso.lieferando === Lieferando.de - Order Food === GooglePlay === priv
+com.zafaco.breitbandmessung === Broadband Measurement === GooglePlay === priv
+com.zattoo.player === Zattoo - TV Streaming App === GooglePlay === priv
+co.timsmart.vouchervault === Voucher Vault === F-Droid === priv
+cx.hell.android.pdfview === APV PDF Viewer === F-Droid === priv
+cz.edhouse.mc.android === sejf === GooglePlay === priv
+de.adac.mobile.pannenhilfe === ADAC Pannenhilfe === GooglePlay === priv
+de.adac.tourset === ADAC Trips === GooglePlay === priv
+de.almisoft.boxtogofree === BoxToGo === GooglePlay === priv
+de.aoksystems.amg === Meine AOK === GooglePlay === priv
+de.appsoluts.f95 === Fortuna Düsseldorf App === GooglePlay === priv
+de.avm.android.fritzapp === FRITZ!App Fon === GooglePlay === priv
+de.avm.android.fritzapptv === FRITZ!App TV === GooglePlay === priv
+de.avm.android.myfritz2 === MyFRITZ!App === GooglePlay === priv
+de.avm.android.smarthome === FRITZ!App Smart Home === GooglePlay === priv
+de.bahn.callabike === Call a Bike === GooglePlay === priv
+de.bahn.flinkster === Flinkster === GooglePlay === priv
+de.barmergek.serviceapp === BARMER-App === GooglePlay === priv
+de.bisonapp === BISON - Buy Bitcoin  Co === GooglePlay === priv
+de.blinkt.openvpn === OpenVPN for Android === F-Droid === priv
+de.blinkt.openvpn === OpenVPN for Android === F-Droid === work
+de.blitzer === Blitzer.de === GooglePlay === priv
+de.boersego.gmt.android === Guidants – Stocks  News === GooglePlay === priv
+de.boxine.tonieapp === tonies® === GooglePlay === priv
+de.danoeh.antennapod === AntennaPod === F-Droid === priv
+de.deltacity.android.blutspende === Blutspende - Spenderservice === GooglePlay === priv
+de.deutschepost.postident === POSTIDENT === GooglePlay === priv
+de.deutschlandradio.dlf24 === Dlf: Die Nachrichten aus Deutschland und der Welt === GooglePlay === priv
+de.deutschlandsim.servicewelt === DeutschlandSIM Servicewelt === GooglePlay === priv
+de.dieterthiess.sayit === SAY IT for Alexa === GooglePlay === priv
+de.dmhub.audionow === AUDIO NOW: App für Podcasts, Hörbücher  Audiothek === GooglePlay === priv
+de.dwd.warnapp === WarnWetter === GooglePlay === priv
+de.elvah === elvah - Elektroauto laden === GooglePlay === priv
+de.eos.uptrade.android.fahrinfo.berlin === BVG Fahrinfo: Route planner === GooglePlay === work
+de.ergo.app === ERGO APP === GooglePlay === priv
+de.foobarsoft.emailwidget ===  ===  === priv
+de.foodora.android === foodora - Local Food Delivery === GooglePlay === priv
+de.fun2code.android.lite.webdrive ===  ===  === priv
+de.fun2code.android.lite.webdrive ===  ===  === work
+de.gmx.mobile.android.mail === GMX - Mail  Cloud === GooglePlay === priv
+de.hafas.android.db === DB Navigator === GooglePlay === priv
+de.hafas.android.db === DB Navigator === GooglePlay === work
+de.hafas.android.nrw === Ticket NRW === GooglePlay === priv
+de.hafas.android.sbm === München Navigator === GooglePlay === priv
+de.hafas.android.zvv === ZVV-Timetable === GooglePlay === priv
+de.is24.android === ImmoScout24 - House  Apartment Search === GooglePlay === priv
+de.ka.kamedi.heat_it === heat_it - The smart treatment of insect bites === GooglePlay === priv
+de.kicktipp.mbookmark === Kicktipp - Football predictor game and more === GooglePlay === priv
+de.komoot.android === Komoot: Cycling  Hiking Maps === GooglePlay === priv
+de.lakdev.mathewiki === Math Wiki - Learn Math === GooglePlay === priv
+de.lateinon.lateinon === Lateinon: Lateinalleskönner === GooglePlay === priv
+de.lieferheld.android === LIEFERHELD | Order Food === GooglePlay === priv
+de.limango.shop === limango - Online-Shop === GooglePlay === priv
+de.lineas.lit.ntv.android === ntv Nachrichten === GooglePlay === priv
+de.maengelmelder.app === Mängelmelder === GooglePlay === priv
+de.markusfisch.android.binaryeye === Binary Eye === F-Droid === priv
+de.materna.bbk.mobile.app === NINA - Die Warn-App des BBK === GooglePlay === priv
+de.mdiener.rain.usa === Rain Alarm === GooglePlay === priv
+de.metro.alex.customer.digitalcard.metro === METRO Companion === GooglePlay === priv
+de.motain.iliga === OneFootball - Soccer News === GooglePlay === priv
+de.msg === mehr-tanken - Save smart! === GooglePlay === priv
+de.myhammer.myhammercustomer === MyHammer Handwerkersuche 🔨 === GooglePlay === priv
+de.number26.android === N26 — The Mobile Bank === GooglePlay === priv
+de.okk.mam === Miles  More Credit Card-App === GooglePlay === priv
+de.parknotruf.pwawrapper === Parknotruf === GooglePlay === priv
+de.phase6.freeversion.beta === Memorize german vocabulary === GooglePlay === priv
+de.pilzsuchmaschine.ultra === Pilzsuche Ultra === GooglePlay === priv
+de.pixart.messenger === blabber.im === F-Droid === priv
+de.prosiebensat1digital.seventv === Joyn | deine Streaming App === GooglePlay === priv
+de.rki.coronawarnapp === Corona-Warn-App === GooglePlay === priv
+de.rki.covpass.app === CovPass === F-Droid === priv
+de.rki.covpass.checkapp === CovPassCheck === F-Droid === priv
+de.rtli.tvnow === RTL+ === GooglePlay === priv
+de.rwth_aachen.phyphox === phyphox === F-Droid === priv
+de.schildbach.oeffi === Offi === F-Droid === priv
+de.sim.servicewelt === sim.de Servicewelt === GooglePlay === priv
+de.sipgate.app.satellite === satellite === GooglePlay === priv
+de.sonnen.portal === my sonnen === GooglePlay === priv
+de.telekom.android.customercenter === MeinMagenta: Handy  Festnetz === GooglePlay === work
+dev.stol.thingviewer === ThingViewer - ThingSpeak viewer === GooglePlay === priv
+de.weishaupt.controlapp === Weishaupt heating control === GooglePlay === priv
+de.weishaupt.wemapp === Weishaupt Energy Manager === GooglePlay === priv
+de.westlotto.app === WestLotto === GooglePlay === priv
+de.wetteronline.wetterapp === Weather  Radar - Storm radar === GooglePlay === priv
+de.xcom.flatexde === flatex next === GooglePlay === priv
+de.xcom.flatex.ptan === flateXSecure === GooglePlay === priv
+de.zdf.mediathek.tivi === ZDFtivi für Kinder === GooglePlay === priv
+dji.go.v5 ===  ===  === priv
+dk.tacit.android.foldersync.lite === FolderSync === GooglePlay === priv
+eu.djh.app === Jugendherberge.de - die DJH App === GooglePlay === priv
+eu.hoermann.ast.homee === Hörmann homee === GooglePlay === priv
+exa.lnx.a === AnLinux === F-Droid === priv
+fitness.workouts.home.workoutspro === Home Workouts No Equipment Pro === GooglePlay === priv
+fr.free.nrw.commons === Commons === F-Droid === priv
+info.cointracking.cointracking === CoinTracking === GooglePlay === priv
+io.bluewallet.bluewallet === BlueWallet Bitcoin Wallet === F-Droid === priv
+io.yuka.android === Yuka - Food  cosmetic scan === GooglePlay === priv
+it.airgap.vault === AirGap Vault - Tezos, Cosmos, Ethereum, Bitcoin === GooglePlay === priv
+it.airgap.wallet === AirGap Wallet - Tezos, Cosmos, Ethereum, Bitcoin === GooglePlay === priv
+it.android.demi.elettronica === Electrodoc - electronics tools === GooglePlay === priv
+jackpal.androidterm === Terminal Emulator for Android === F-Droid === priv
+keepass2android.keepass2android === Keepass2Android Password Safe === GooglePlay === priv
+li.klass.fhem === andFHEM === F-Droid === priv
+mentz.net.rheinbahn_journey_planner === Rheinbahn 2.0 === GooglePlay === priv
+mn.tck.semitone === Semitone === F-Droid === priv
+net.androgames.level === Bubble === F-Droid === priv
+net.biyee.onvifer === Onvier - IP Camera Monitor === GooglePlay === priv
+net.easypark.android === EasyPark - find  pay parking === GooglePlay === priv
+net.khertan.forrunners === ForRunners === F-Droid === priv
+net.routix.mqttdash === MQTT Dash (IoT, Smart Home) === GooglePlay === priv
+net.sourceforge.opencamera === Open Camera === F-Droid === priv
+net.xelnaga.exchanger === Exchange Rates  Currency Converter === GooglePlay === priv
+no.nordicsemi.android.mcp === nRF Connect for Mobile === GooglePlay === priv
+org.blokada.alarm === Blokada v4 (ad blocker) === F-Droid === priv
+org.blokada.alarm === Blokada v4 (ad blocker) === F-Droid === work
+org.buffer.android === Buffer: Social Media Tools === GooglePlay === work
+org.connectbot === ConnectBot === F-Droid === priv
+org.coolreader === Cool Reader === F-Droid === priv
+org.fdroid.fdroid === F-Droid === F-Droid === priv
+org.fdroid.fdroid === F-Droid === F-Droid === work
+org.fedorahosted.freeotp === FreeOTP === F-Droid === priv
+org.fedorahosted.freeotp === FreeOTP === F-Droid === work
+org.jitsi.meet === Jitsi Meet === F-Droid === priv
+org.klimabuendnis.Stadtradeln === CITY CYCLING === GooglePlay === priv
+org.kost.nmap.android.networkmapper === NetworkMapper === F-Droid === priv
+org.leetzone.android.yatsewidgetfree === Yatse: Kodi remote control and cast === GooglePlay === priv
+org.leetzone.android.yatsewidgetunlocker === Legacy Unlocker for Yatse === GooglePlay === priv
+org.leo.android.dict === LEO dictionary === GooglePlay === priv
+org.ligi.passandroid === PassAndroid === F-Droid === priv
+org.ligi.passandroid === PassAndroid === F-Droid === work
+org.linphone === Linphone - open source SIP client === F-Droid === priv
+org.linphone === Linphone - open source SIP client === F-Droid === work
+org.mozilla.firefox === Firefox Fast  Private Browser === GooglePlay === priv
+org.mozilla.firefox === Firefox Fast  Private Browser === GooglePlay === work
+org.opencv.engine ===  ===  === priv
+org.opencv.engine ===  ===  === work
+org.openhab.habdroid === openHAB === F-Droid === priv
+org.ovirt.mobile.movirt === moVirt === GooglePlay === priv
+org.plantnet === PlantNet Plant Identification === GooglePlay === priv
+org.pocketworkstation.pckeyboard === Hacker's Keyboard === F-Droid === priv
+org.pocketworkstation.pckeyboard === Hacker's Keyboard === F-Droid === work
+org.prowl.liveview.plugins.sandbox === LiveView for Torque (OBD/Car) === GooglePlay === priv
+org.prowl.torque === Torque Pro (OBD 2  Car) === GooglePlay === priv
+org.scprojects.app.mpselectminiclient ===  ===  === priv
+org.subsurfacedivelog.mobile === Subsurface-mobile === GooglePlay === priv
+org.sufficientlysecure.viewer === Document Viewer === F-Droid === priv
+org.tasks === Tasks.org: Open-source To-Do Lists  Reminders === F-Droid === priv
+org.tasks === Tasks.org: Open-source To-Do Lists  Reminders === F-Droid === work
+org.telegram.messenger === Telegram FOSS === F-Droid === priv
+org.telegram.messenger === Telegram FOSS === F-Droid === work
+org.thoughtcrime.securesms === Signal Private Messenger === GooglePlay === priv
+org.thoughtcrime.securesms === Signal Private Messenger === GooglePlay === work
+org.torproject.android === Orbot: Tor for Android === GooglePlay === priv
+org.videolan.vlc === VLC === F-Droid === priv
+org.videolan.vlc === VLC === F-Droid === work
+org.wegeheld === Wegeheld-App für freie Wege === GooglePlay === priv
+org.wikipedia === Wikipedia === F-Droid === priv
+org.withouthat.acalendarplus === aCalendar+ Calendar  Tasks === GooglePlay === priv
+proofit.klack.phone === KLACK Fernseh-  TV-Programm === GooglePlay === priv
+protect.videoeditor === Video Transcoder === F-Droid === priv
+resistanceband.workout.plan === Resistance Band Exercises === GooglePlay === priv
+ru.meefik.linuxdeploy === Linux Deploy === GooglePlay === priv
+snr.lab.iotmqttpanel.prod === IoT MQTT Panel === GooglePlay === priv
+taxi.android.client === FREE NOW === GooglePlay === priv
+tech.ula === UserLAnd === F-Droid === priv
+tunein.player === TuneIn Radio: News, Music  FM === GooglePlay === priv
+tv.periscope.android ===  ===  === priv
+tv.twitch.android.app === Twitch: Live Game Streaming === GooglePlay === priv
+tv.twitch.android.app === Twitch: Live Game Streaming === GooglePlay === work
+us.zoom.videomeetings === ZOOM Cloud Meetings === GooglePlay === work
+vc.qc.banner ===  ===  === priv
+vc.qc.banner ===  ===  === work
+vivid.money === Vivid: Investments  Banking  Crypto === GooglePlay === priv
+vivino.web.app === Vivino: Buy the Right Wine === GooglePlay === priv
