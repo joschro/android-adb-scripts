@@ -67,7 +67,6 @@ com.devhd.feedly === Feedly - Smarter News Reader === GooglePlay === priv
 com.digitalenabling.idw ===  ===  === priv
 com.discord === Discord - Chat, Talk  Hangout === GooglePlay === priv
 com.dkbcodefactory.banking === DKB === GooglePlay === priv
-com.dkv.dkvrahmenapp === DKV App === GooglePlay === priv
 com.doodle.android === Doodle - Easy Scheduling === GooglePlay === priv
 com.dropbox.android === Dropbox: Cloud Photo Storage === GooglePlay === priv
 com.duckduckgo.mobile.android === DuckDuckGo Privacy Browser === F-Droid === priv
@@ -158,7 +157,6 @@ com.huaweioverseas.smarthome === HUAWEI AI Life === GooglePlay === priv
 com.Hubapps.DeepLtranslate ===  ===  === priv
 com.husqvarna.automowerconnect === Automower® Connect === GooglePlay === priv
 com.ibm.de.gapp.dkv.prod === Meine DKV === GooglePlay === priv
-com.ibm.de.ish.app.dkv.prod ===  ===  === priv
 com.ideashower.readitlater.pro === Pocket: Save. Read. Grow. === GooglePlay === priv
 com.ifttt.ifttt === IFTTT - automation  workflow === GooglePlay === priv
 com.ifttt.ifttt === IFTTT - automation  workflow === GooglePlay === work
