@@ -1,5 +1,6 @@
 #!/bin/sh
 
+adb devices | grep device | grep -v attached || exit
 myPATH="$(adb shell getprop ro.product.model)/$(date +"%Y-%m-%d")"
 mkdir -p "$myPATH"
 adb shell getprop ro.build.version.release > "$myPATH"/version.txt
