@@ -16,3 +16,4 @@ Steps to take:
     * https://www.netzwelt.de/anleitung/163160-whatsapp-so-gelingt-umzug-neues-handy-2022.html#lokales-backup-kopieren-nur-android
 7. DKB Tan2Go https://banking.dkb.de/login
 8. Kisi
+9. KDE connect
