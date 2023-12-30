@@ -14,5 +14,5 @@ Steps to take:
    * https://support.signal.org/hc/de/articles/360007059752-Nachrichten-sichern-und-wiederherstellen#android_transfer_steps
 6. WhatsApp restore
     * https://www.netzwelt.de/anleitung/163160-whatsapp-so-gelingt-umzug-neues-handy-2022.html#lokales-backup-kopieren-nur-android
-7. DKB Tan2Go
+7. DKB Tan2Go https://banking.dkb.de/login
 8. Kisi
